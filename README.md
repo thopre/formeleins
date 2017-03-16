@@ -1,2 +1,3 @@
 # formeleins
 
+Datenstrukturen: siehe Wiki!
